@@ -1,0 +1,16 @@
+body {
+    background-image: url(sanrio\ fondo3.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.conteiner{
+    display: flex;
+justify-content: space-evenly;
+}
+
+.conteiner-Root{
+    padding: 10px;
+}
